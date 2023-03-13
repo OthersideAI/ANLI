@@ -4,11 +4,11 @@ In [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), th
 
 ## Results (On R3 Dev)
 
-| model            | NaiveFewShot |
-| ---------------- | ------------ |
-| Original Davinci | 34%          |
-| Text-Davinci-001 | 34.58%       |
-| Text-Davinci-002 | 48.33%       |
-| Text-Davinci-003 | 53.83%       |
-| Turbo            | 53.75%       |
-| Turbo-0301       | 54.08%       |
+| model            | NaiveFewShot | DetailedBreakdown |
+| ---------------- | ------------ | ----------------- |
+| Original Davinci | 34%          | **34.08%**        |
+| Text-Davinci-001 | **34.58%**   | 34.25%            |
+| Text-Davinci-002 | **48.33%**   | 40.58%            |
+| Text-Davinci-003 | **53.83%**   | 49.08%            |
+| Turbo            | **53.75%**   | 50.83%            |
+| Turbo-0301       | **54.08%**   | 50.92%            |
