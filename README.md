@@ -12,3 +12,4 @@ In [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), th
 | Text-Davinci-003 | **53.83%**   | 49.08%            |
 | Turbo            | **53.75%**   | 50.83%            |
 | Turbo-0301       | **54.08%**   | 50.92%            |
+| GPT-4            | 66.5         | **69.75%**        |
